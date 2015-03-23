@@ -1,2 +1,3 @@
-order.status = :canceled
-order.status = :confirmed
+puts 4936 / 1000
+puts 4936 % 1000 / 100
+puts 4936 % 1000 % 100 /10
